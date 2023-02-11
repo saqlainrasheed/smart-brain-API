@@ -9,7 +9,7 @@
   "author": "Saqlain Rasheed",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
